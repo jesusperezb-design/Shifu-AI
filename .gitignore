@@ -1,6 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
 venv/
+.env
+
+# Data & outputs
 *.mp4
-*.zip
+*.avi
+*.mov
 *.pdf
 *.png
-__pycache__/
+*.jpg
+*.jpeg
+*.zip
+tmp/
+
+# Mac & VSCode
+.DS_Store
+.vscode/
